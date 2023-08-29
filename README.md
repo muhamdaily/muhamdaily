@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**muhamdaily/muhamdaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ini
+from github.profile import ReadMe
+class muhamdaily ( ReadMe ) :
+    def __init__ ( self ) :
+        self.username  = "MuhamDaily"
+        self.location  = "Indonesia"
+        self.discord   = "@muhamdaily"
+        self.languages = [ "PHP", "Javascript", "C#", "Java" ]
+    def about ( self ) :
+        print( f"Hi, I'm {self.username}. Contact me on {self.discord}" )
+me = muhamdaily()
+me.about()
+```
