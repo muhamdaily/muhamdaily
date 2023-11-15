@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1130900803020918905/1174418778277298236/header.gif?ex=656785b8&is=655510b8&hm=d4f5f8645ffe93da1956da64ac8c061530960e8efbe83be1233280e1d53ca632&">
+  <img src="https://raw.githubusercontent.com/muhamdaily/assets/main/header.gif">
 
-<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+<img src="https://raw.githubusercontent.com/muhamdaily/assets/main/cover.png" height="200"/>
 
 <h1 align="center"><b>Hello, Muhammad Mauribi</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -42,5 +42,5 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1130900803020918905/1174418777681690715/footer.gif?ex=656785b8&is=655510b8&hm=09f160caafa8adc779e8d22107f4ac2318afe9ba2e1882eba4a9b7ad9654ef38&">
+  <img src="https://raw.githubusercontent.com/muhamdaily/assets/main/footer.gif">
 </div>
