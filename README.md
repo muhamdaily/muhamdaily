@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1130900803020918905/1174418778277298236/header.gif?ex=656785b8&is=655510b8&hm=d4f5f8645ffe93da1956da64ac8c061530960e8efbe83be1233280e1d53ca632&">
+
 <h1 align="center"><b>Hello, Muhammad Mauribi</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -15,6 +18,21 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div align="center">  
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=muhamdaily&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamdaily&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
+</div>
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=muhamdaily&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
+</p>
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1130900803020918905/1174418777681690715/footer.gif?ex=656785b8&is=655510b8&hm=09f160caafa8adc779e8d22107f4ac2318afe9ba2e1882eba4a9b7ad9654ef38&">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamdaily&label=Views&color=0e75b6&style=for-the-badge" alt="MuhamDaily on Github" /> </p>
