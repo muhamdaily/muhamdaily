@@ -14,8 +14,8 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://muhamdaily-spotify.vercel.app/api/view?uid=31oiatziwyz7jrtxe75yj26ynxxu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" width="48%">
-  <img src="https://muhamdaily-spotify.vercel.app/api/view?uid=31oiatziwyz7jrtxe75yj26ynxxu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" width="48%">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oiatziwyz7jrtxe75yj26ynxxu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" width="48%">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oiatziwyz7jrtxe75yj26ynxxu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" width="48%">
 </div>
 
 <div align="center">
